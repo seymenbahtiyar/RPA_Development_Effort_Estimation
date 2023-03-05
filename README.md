@@ -15,6 +15,7 @@ This is an example development effort estimation study for a RPA project that in
 - User Stories
 - Unit Tests, Best Practices
 - Integration, Functional Tests
+- User acceptance testing (UAT), Deploy
 - Technical documentation (optional)
 - User documentation (optional)
 
@@ -25,10 +26,10 @@ The following table shows the tasks involved in the project and their correspond
 | Tasks                                                 | Estimation (Day) | Notes                                    |
 | ----------------------------------------------------- | ---------------- | ---------------------------------------- |
 | Solution design and architecture                      | 1                |                                          |
-| Extracting data from invoices                         | 1                |                                          |
-| Validating extracted data                             | 1                |                                          |
-| Entering data into accounting system                  | 2                |                                          |
-| Creating process output report and sending e-mail to process owner | 0.5              |                                          |
+| Extracting data from invoices (story)                         | 1                |                                          |
+| Validating extracted data (story)                             | 1                |                                          |
+| Entering data into accounting system (story)                  | 2                |                                          |
+| Creating process output report and sending e-mail to process owner (story) | 0.5              |                                          |
 | Unit Tests, Best Practices                            | 0.8              | 0.2 * 4 User Story = 0.8                 |
 | Integration, Functional Tests                         | 0.5              |                                          |
 | User acceptance testing (UAT), Deploy                 | 1                |                                          |
