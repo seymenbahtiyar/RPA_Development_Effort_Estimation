@@ -37,3 +37,7 @@ Note: The contingency additional time is estimated to be 30% of the total effort
 ## Conclusion
 
 Based on the effort estimation table, the total estimated effort for this UiPath project is approximately 7.8 days without contingency additional time and 10.14 days with contingency additional time.
+
+## License
+
+[MIT](https://github.com/seymenbahtiyar/RPA_Development_Effort_Estimation/blob/main/LICENSE)
