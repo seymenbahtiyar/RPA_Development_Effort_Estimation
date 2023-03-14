@@ -18,6 +18,7 @@ This is an example development effort estimation study for a RPA project that in
 - User acceptance testing (UAT), Deploy
 - Technical documentation (optional)
 - User documentation (optional)
+- Code review (optional)
 
 ## Tasks and Estimation
 
@@ -32,9 +33,10 @@ The following table shows the tasks involved in the project and their correspond
 | Creating process output report and sending e-mail to process owner (story) | 0.5              |                                          |
 | Unit Tests, Best Practices                            | 0.8              | 0.2 * 4 User Story = 0.8                 |
 | Integration, Functional Tests                         | 0.5              |                                          |
+| Code review                         | 0.5              |                                          |
 | User acceptance testing (UAT), Deploy                 | 1                |                                          |
-| All + Contingency additional time (%30)                | 10.14            |                                          |
-| All                                                   | 7.8              |                                          |
+| All + Contingency additional time (%30)                | 10.79            |                                          |
+| All                                                   | 8.3              |                                          |
 
 Note: The contingency additional time is estimated to be 30% of the total effort.
 
